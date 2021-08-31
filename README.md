@@ -24,7 +24,7 @@
 					</div>
 				</div>
 				<div class="row repeater repeater-work-experience-5 repeater-end">
-					<div class="col-sm-1"><img style="max-height: 80px;max-width: 80px;" class="logo fr-rounded" src="https://yt3.ggpht.com/ytc/AKedOLR9S_k5BplquLTyJ7w19yiSHrzYyrwCiKxypNTKsA=s900-c-k-c0x00ffffff-no-rj"></div>
+					<div class="col-sm-1"><img style="max-height: 80px;max-width: 80px;" class="img-thumbnail" src="https://yt3.ggpht.com/ytc/AKedOLR9S_k5BplquLTyJ7w19yiSHrzYyrwCiKxypNTKsA=s900-c-k-c0x00ffffff-no-rj"></div>
 					<div class="col-sm-11">
 						<h3>PHP工程師<span class="theme-main-color" style="font-size: 18.37px">&nbsp;&nbsp;•&nbsp;&nbsp;台北數位廣告股份有限公司</span></h3>
 						<p><span style="color: #888;">十月 2015 - 八月 2021</span></p>
@@ -64,7 +64,7 @@
 				</div>
 				<div class="row repeater repeater-education-4 repeater-end">
 					<div class="col-sm-1">
-						<img style="max-height: 80px;max-width: 80px;" class="logo fr-rounded" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NCUT.svg/1200px-NCUT.svg.png">
+						<img style="max-height: 80px;max-width: 80px;" class="img-thumbnail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NCUT.svg/1200px-NCUT.svg.png">
 					</div>
 					<div class="col-sm-5">
 						<h5>國立勤益科技大學</h5>
@@ -72,7 +72,7 @@
 						<p>資訊工程係 碩士 多媒體影像加密技術</p>
 					</div>
 					<div class="col-sm-1">
-						<img style="max-height: 80px;max-width: 80px;" class="logo fr-rounded" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NCUT.svg/1200px-NCUT.svg.png">
+						<img style="max-height: 80px;max-width: 80px;" class="img-thumbnail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NCUT.svg/1200px-NCUT.svg.png">
 					</div>
 					<div class="col-sm-5">
 						<h5>國立勤益科技大學</h5
