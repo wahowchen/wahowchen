@@ -28,21 +28,21 @@
             <br>
             <div class="row">
                 <div class="col-12">
-                    <h3>工作經驗</h3>
+                    <h2>工作經驗</h2>
                 </div>
                 <hr>
                 <div class="row">
-                    <h5>台北數位廣告股份有限公司</h5>
+                    <h3>台北數位廣告股份有限公司</h3>
                     <div class="col-6">
                         <a>副理 工程師</a>
                         <p><span style="color: #888;">2018 - 2021</span></p>
                         <div class="accordion" id="accordionExampleA">
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
+                                <h4 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneA1" aria-expanded="true" aria-controls="collapseOneA1">
                                         LINE 行銷模組
                                     </button>
-                                </h2>
+                                </h4>
                                 <div id="collapseOneA1" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExampleA">
                                     <div class="accordion-body">
                                       1.專案時間：2016/11 開始開發，上線維護至 2021/8<br>
@@ -55,11 +55,11 @@
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne2">
+                                <h4 class="accordion-header" id="headingOne2">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne2" aria-expanded="true" aria-controls="collapseOne2">
                                         LINE POINTS 點數發放平台
                                     </button>
-                                </h2>
+                                </h4>
                                 <div id="collapseOne2" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExampleA">
                                     <div class="accordion-body">
                                       1.專案時間：2019/10 開始開發，上線維護至 2021/8<br>
