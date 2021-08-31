@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text">
-                        <h3>陳威宇</h3>
+                        <h3></h3>
                     </div>
                 </div>
                 <div class="col-sm-12">
