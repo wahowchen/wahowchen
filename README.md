@@ -27,10 +27,9 @@
             </div>
             <br>
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 p-3">
                     <h2>工作經驗</h2>
                 </div>
-                <hr>
                 <div class="row">
                     <h3>台北數位廣告股份有限公司</h3>
                     <div class="col-6">
@@ -78,11 +77,11 @@
                         <p><span style="color: #888;">2015 - 2018</span></p>
                         <div class="accordion" id="accordionExampleB">
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne2">
+                                <h4 class="accordion-header" id="headingOne2">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         網站開發
                                     </button>
-                                </h2>
+                                </h4>
                                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne2" data-bs-parent="#accordionExampleB">
                                     <div class="accordion-body">
                                       1.專案時間：2015/10 至 2021/8，漸漸轉為技術輔導<br>
