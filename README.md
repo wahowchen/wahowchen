@@ -11,7 +11,10 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-
+                    <picture>
+                        <source srcset="https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg" type="image/svg+xml">
+                        <img src="https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg" class="img-fluid mx-auto" alt="">
+                    </picture>
                 </div>
                 <div class="col-6">
                     <div class="text">
