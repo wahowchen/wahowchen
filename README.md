@@ -27,9 +27,10 @@
             </div>
             <br>
             <div class="row">
-                <div class="col-12 p-3">
-                    <h2>工作經驗</h2>
+                <div class="col-12">
+                    <h3>工作經驗</h3>
                 </div>
+                <hr>
                 <div class="row">
                     <h3>台北數位廣告股份有限公司</h3>
                     <div class="col-6">
